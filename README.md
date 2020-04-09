@@ -1,12 +1,13 @@
-# Momonton
+# 투두리스트
 
 ## Features
 
-- [x] Clock
-- [x] To Do List
-- [x] Weather
-- [x] Daily Photo
-- [x] Offline Support
+- [x] 
+- [x] 투두리스트
+- [x] 사용자지역 기준 날씨와 지역표시
+- [x] 접속할때마다 배경화면 변경
+- [x] 오프라인지원
+- [x] 음악듣기
 
 ## 사이트
 
