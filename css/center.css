@@ -1,0 +1,50 @@
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#name_text {
+  appearance: none;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 36px;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.8);
+  margin-bottom: 20px;
+}
+#name_text::placeholder {
+  color: white;
+  opacity: 0.7;
+  text-align : center;
+}
+
+#name_text:focus,
+#name_text:active {
+  outline: none;
+}
+
+.greetings {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.center .greetings {
+  margin-bottom: 30px;
+}
+
+.delUser{
+  margin-bottom: 20px;
+  cursor: pointer;
+  outline: 0;
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  font-size: 25px;
+}
+
+.userhide{
+  display: none;
+}
+

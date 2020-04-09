@@ -1,0 +1,22 @@
+.weather {
+  position: absolute;
+  font-style: italic;
+  font-size: 23px;
+  top: 50px;
+  right: 25px;
+}
+
+.loc {
+  position: absolute;
+  font-style: italic;
+  font-size: 23px;
+  top: 25px;
+  right: 25px;
+}
+
+#audio{
+   position: absolute;
+   top: 25px;
+   left: 25px;
+   height: 20px;
+}

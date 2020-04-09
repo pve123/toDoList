@@ -1,0 +1,23 @@
+.todoList {
+  margin-bottom: 20px;
+}
+
+
+.todoList li span {
+  font-size: 30px;
+}
+
+.todoList li button {
+  margin-right: 15px;
+  cursor: pointer;
+  outline: 0;
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  font-size: 25px;
+}
+
+.todoForm input::placeholder {
+  text-align : center;
+}
