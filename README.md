@@ -1,4 +1,4 @@
-# 투두리스트
+# ToDoList ( 개인 )
 
 ## Features
 
